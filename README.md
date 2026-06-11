@@ -5,8 +5,6 @@
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow.svg)
 ![Tailwind CSS](https://img.shields.io/badge/Framework-TailwindCSS-38BDF8.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
-![Responsive](https://img.shields.io/badge/Responsive-Yes-success.svg)
-![Made With Love](https://img.shields.io/badge/Made%20with-❤️-ff69b4.svg)
 
 An interactive birthday card website created by Sarah for Jasmine's 17th birthday.
 
